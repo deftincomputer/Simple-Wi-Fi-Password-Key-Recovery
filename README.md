@@ -1,1 +1,1 @@
-# Simple-Wi-Fi-Password-Key-Recovery
+# Simple Wi-Fi Password Key Recovery
