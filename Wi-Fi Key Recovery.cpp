@@ -12,7 +12,7 @@ main()
 {
 	
 
-	cout<<"[1] Wi-Fi Password Recovery (Cmd Method)"<<"\n[2] Wi-Fi Password Recovery (PowerShell Method)"<<"\n[3] Show This Pc Interface info"<<"\n[4] Show Details Of Nearby Networks"<<"\n[5] About This App";
+	cout<<"[1] Wi-Fi Password Recovery (Cmd Method)"<<"\n[2] Wi-Fi Password Recovery (PowerShell Method)"<<"\n[3] Show This System Interface info"<<"\n[4] Show Details Of Nearby Networks"<<"\n[5] About This App";
 	cout<<"\n\nEnter A Number: ";
 	int en;
 	cin>>en;
